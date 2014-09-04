@@ -10,7 +10,7 @@
 /*replace the canvas logo with your logo*/
 #header-logo, #header.no-user #header-logo {
 /*  background: url("header_logo.png?v1") no-repeat scroll 0 0 transparent; */
-  background: url("louhau_logo.png") no-repeat scroll 0 0 transparent;
+  background: url("louhau_logo.PNG") no-repeat scroll 0 0 transparent;
   background-size: 338px 69px
   bottom: 0px;
   height: 69px;
